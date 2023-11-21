@@ -1,0 +1,33 @@
+.about-us-container {
+    padding: 50px;
+    margin-left: -26%;
+  }
+  
+  .about-us-content {
+    max-width: 700px;
+    margin: 0 auto;
+    margin-left: 20%;
+  }
+  .abh1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+ .abh2 {
+    font-size: 24px;
+    margin-top: 30px;
+    font-weight: lighter;
+    margin-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .aboutp5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    font-weight: lighter;
+  }
+  .aboutimg{
+    margin-left: 67%;
+    margin-top: -100%;
+    width:35%;
+  }
